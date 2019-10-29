@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbdd633e-20a0-44ee-855a-5b828e4af953" name="Default Changelist" comment="" />
+    <list default="true" id="dbdd633e-20a0-44ee-855a-5b828e4af953" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/CodeWar.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/CodeWar.main.kotlin_module" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -63,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javacloud/codewar/FibonacciTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="84">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,10 +81,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javacloud/codewar/EquationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javacloud/codewar/Equation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="4634" column="18" selection-start-line="4634" selection-start-column="18" selection-end-line="4634" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="156" column="16" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javacloud/codewar/WarriorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1659">
-              <caret line="83" column="57" selection-start-line="83" selection-start-column="57" selection-end-line="83" selection-end-column="57" />
+            <state relative-caret-position="4116">
+              <caret line="200" column="35" selection-start-line="200" selection-start-column="35" selection-end-line="200" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,6 +196,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/javacloud/codewar/StringMixerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javacloud/codewar/RailFenceCipherTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javacloud/codewar/FibonacciTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javacloud/codewar/Equation.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javacloud/codewar/EquationTest.java" />
       </list>
     </option>
   </component>
@@ -138,8 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,6 +272,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FibonacciTest.test2000000">
+  <component name="RunManager" selected="JUnit.EquationTest.shouldReturn5_whenInput5XAnd25">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -245,6 +319,40 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EquationTest.shouldEquationDifferentiateReturn5_whenInputPolynomialXAndEquals5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWar.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javacloud.codewar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javacloud.codewar" />
+      <option name="MAIN_CLASS_NAME" value="com.javacloud.codewar.EquationTest" />
+      <option name="METHOD_NAME" value="shouldEquationDifferentiateReturn5_whenInputPolynomialXAndEquals5" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EquationTest.shouldReturn5_whenInput5XAnd25" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeWar.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javacloud.codewar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javacloud.codewar" />
+      <option name="MAIN_CLASS_NAME" value="com.javacloud.codewar.EquationTest" />
+      <option name="METHOD_NAME" value="shouldReturn5_whenInput5XAnd25" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -282,22 +390,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarriorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWar.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javacloud.codewar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javacloud.codewar" />
-      <option name="MAIN_CLASS_NAME" value="com.javacloud.codewar.WarriorTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WarriorTest.shouldDefeated_whenEnemyLevelGreater5Level" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeWar.test" />
       <extension name="coverage">
@@ -309,23 +401,6 @@
       <option name="PACKAGE_NAME" value="com.javacloud.codewar" />
       <option name="MAIN_CLASS_NAME" value="com.javacloud.codewar.WarriorTest" />
       <option name="METHOD_NAME" value="shouldDefeated_whenEnemyLevelGreater5Level" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WarriorTest.shouldEarn10Experience_whenBattleWithSameLevel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CodeWar.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javacloud.codewar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javacloud.codewar" />
-      <option name="MAIN_CLASS_NAME" value="com.javacloud.codewar.WarriorTest" />
-      <option name="METHOD_NAME" value="shouldEarn10Experience_whenBattleWithSameLevel" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -359,11 +434,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EquationTest.shouldReturn5_whenInput5XAnd25" />
+        <item itemvalue="JUnit.EquationTest.shouldEquationDifferentiateReturn5_whenInputPolynomialXAndEquals5" />
         <item itemvalue="JUnit.FibonacciTest.test2000000" />
         <item itemvalue="JUnit.FibonacciTest" />
         <item itemvalue="JUnit.WarriorTest.shouldDefeated_whenEnemyLevelGreater5Level" />
-        <item itemvalue="JUnit.WarriorTest.shouldEarn10Experience_whenBattleWithSameLevel" />
-        <item itemvalue="JUnit.WarriorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -387,18 +462,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FibonacciTest_test2000000 - 2019.09.06 at 11h 42m 28s.xml">
-      <configuration name="FibonacciTest.test2000000" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest_test2000000 - 2019.09.06 at 11h 42m 55s.xml">
-      <configuration name="FibonacciTest.test2000000" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest - 2019.09.06 at 11h 44m 05s.xml">
-      <configuration name="FibonacciTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest_test2000000 - 2019.09.06 at 12h 04m 39s.xml">
-      <configuration name="FibonacciTest.test2000000" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FibonacciTest_test2000000 - 2019.09.06 at 12h 04m 58s.xml">
       <configuration name="FibonacciTest.test2000000" configurationId="JUnit" />
     </history-entry>
@@ -417,9 +480,21 @@
     <history-entry file="FibonacciTest_test2000000 - 2019.09.06 at 12h 06m 28s.xml">
       <configuration name="FibonacciTest.test2000000" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="EquationTest_shouldEquationDifferentiateReturn5_whenInputPolynomialXAndEquals5 - 2019.10.29 at 11h 32m 19s.xml">
+      <configuration name="EquationTest.shouldEquationDifferentiateReturn5_whenInputPolynomialXAndEquals5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquationTest_shouldReturn5_whenInput5XAnd25 - 2019.10.29 at 11h 33m 26s.xml">
+      <configuration name="EquationTest.shouldReturn5_whenInput5XAnd25" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquationTest_shouldReturn5_whenInput5XAnd25 - 2019.10.29 at 11h 34m 08s.xml">
+      <configuration name="EquationTest.shouldReturn5_whenInput5XAnd25" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquationTest_shouldReturn5_whenInput5XAnd25 - 2019.10.29 at 11h 45m 03s.xml">
+      <configuration name="EquationTest.shouldReturn5_whenInput5XAnd25" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33937000" />
+    <option name="totallyTimeSpent" value="35368000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,8 +507,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.26495728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4977169" visible="true" weight="0.2783883" />
       <window_info id="Structure" order="1" sideWeight="0.5022831" side_tool="true" weight="0.25885227" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -449,7 +525,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.31428573" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Docker" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32959184" />
@@ -599,8 +675,8 @@ for (char srcChar: srcChars) {
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        <state relative-caret-position="504">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -732,8 +808,8 @@ for (char srcChar: srcChars) {
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javacloud/codewar/WarriorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1659">
-          <caret line="83" column="57" selection-start-line="83" selection-start-column="57" selection-end-line="83" selection-end-column="57" />
+        <state relative-caret-position="4116">
+          <caret line="200" column="35" selection-start-line="200" selection-start-column="35" selection-end-line="200" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -742,8 +818,60 @@ for (char srcChar: srcChars) {
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javacloud/codewar/FibonacciTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="156" column="16" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="4634" column="18" selection-start-line="4634" selection-start-column="18" selection-end-line="4634" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javacloud/codewar/Equation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javacloud/codewar/MachineLearningTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javacloud/codewar/EquationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
