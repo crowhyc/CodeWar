@@ -43,12 +43,6 @@ public class RailFenceCipherTest {
   }
 
   @Test
-  public void shouldReturnCorrectEncodedString_whenDeep3() {
-    String encode = RailFenceCipher.encode("Hello, World!", 3);
-    assertThat(encode, is("WECRLTEERDSOEEFEAOCAIVDEN"));
-  }
-
-  @Test
   public void shouldReturnCorrectEncodedString_whenDeep25() {
     String encode = RailFenceCipher.encode(srcStr, 25);
     assertThat(encode, is(srcStr));
