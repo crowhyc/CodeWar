@@ -1,5 +1,7 @@
 package com.javacloud.leetcode;
 
+import java.util.Arrays;
+
 public class FindMedianSortedArrays {
   public double findMedianSortedArrays(int[] nums1, int[] nums2) {
     int totalLength = nums1.length + nums2.length;
@@ -73,4 +75,39 @@ public class FindMedianSortedArrays {
     }
   }
 
+  public boolean searchMatrix(int[][] matrix, int target) {
+
+    for (int[] arr : matrix) {
+      if (arr[0] > target) {
+        return false;
+      }
+      int low = 0;
+      int high = arr.length - 1;
+      int middle = 0;
+
+      while (low <= high) {
+        middle = (low + high) / 2;
+        if (arr[middle] > target) {
+          // 比关键字大则关键字在左区域
+          high = middle - 1;
+        } else if (arr[middle] < target) {
+          // 比关键字小则关键字在右区域
+          low = middle + 1;
+        } else {
+          return true;
+        }
+      }
+    }
+    return false;
+  }
+
+  public void merge(int[] nums1, int m, int[] nums2, int n) {
+    if (n == 0) {
+      return;
+    }
+    for (int i = 0; i < n; i++) {
+      nums1[m + i] = nums2[i];
+    }
+    Arrays.sort(nums1);
+  }
 }
